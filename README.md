@@ -23,4 +23,3 @@ The project focuses on **clean UI, smooth navigation, and engaging design** usin
 - **HTML5**  
 - **CSS3**  
 - **JavaScript**  
-
